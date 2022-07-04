@@ -1,7 +1,7 @@
 /* eslint-disable react/react-in-jsx-scope */
 /* eslint-disable react/jsx-filename-extension */
 import { useState, useEffect } from "react";
-import APIHelper from './components/APIHelper'
+import APIHelper from '../../components/APIHelper'
 import './index.css'
 
 const ErrorNotification = ({ message }) => {
